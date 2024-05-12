@@ -133,6 +133,6 @@ function Bot(options){
   
   })
 }
-
+Bot(bot1);
 Bot(bot2);
 Bot(bot3);
