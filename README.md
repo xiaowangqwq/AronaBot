@@ -34,7 +34,6 @@
 ```
 
 ### 文件目录说明
-eg:
 
 ```
 暂无
@@ -42,31 +41,32 @@ eg:
 
 ### 部署
 
-[[colab](https://pic3.zhimg.com/80/v2-fd8c10e648cbb2e5abb682dcfe6949ca_720w.webp)](https://colab.research.google.com/drive/15IDImZdu0gzgA86CpfA2ttad8yKgaqbV#scrollTo=JwUPsJWRPYSH)
-
+```
+暂无
+```
 ### 使用到的框架
 
-[mineflyer]([https://getbootstrap.com](https://github.com/PrismarineJS/mineflayer))
+```
+暂无
+```
 
 ### 贡献者
 XiaoWan
 
 #### 如何参与开源项目
 
-贡献使开源社区成为一个学习、激励和创造的绝佳场所。你所作的任何贡献都是**非常感谢**的。
 
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+```
+暂无
+```
 
 
 ### 版本控制
 
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
+
+```
+暂无
+```
 
 ### 作者
 
@@ -80,3 +80,6 @@ XiaoWan
 
 ### 鸣谢
 
+```
+暂无
+```
