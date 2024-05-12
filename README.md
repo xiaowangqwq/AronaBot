@@ -42,11 +42,11 @@ eg:
 
 ### 部署
 
-[![colab](https://pic3.zhimg.com/80/v2-fd8c10e648cbb2e5abb682dcfe6949ca_720w.webp)](https://colab.research.google.com/drive/15IDImZdu0gzgA86CpfA2ttad8yKgaqbV#scrollTo=JwUPsJWRPYSH)
+[[colab](https://pic3.zhimg.com/80/v2-fd8c10e648cbb2e5abb682dcfe6949ca_720w.webp)](https://colab.research.google.com/drive/15IDImZdu0gzgA86CpfA2ttad8yKgaqbV#scrollTo=JwUPsJWRPYSH)
 
 ### 使用到的框架
 
-- [mineflyer]([https://getbootstrap.com](https://github.com/PrismarineJS/mineflayer))
+[mineflyer]([https://getbootstrap.com](https://github.com/PrismarineJS/mineflayer))
 
 ### 贡献者
 XiaoWan
@@ -80,25 +80,3 @@ XiaoWan
 
 ### 鸣谢
 
-
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Img Shields](https://shields.io)
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Pages](https://pages.github.com)
-- [Animate.css](https://daneden.github.io/animate.css)
-- [xxxxxxxxxxxxxx](https://connoratherton.com/loaders)
-
-<!-- links -->
-[your-project-path]:shaojintian/Best_README_template
-[contributors-shield]: https://img.shields.io/github/contributors/shaojintian/Best_README_template.svg?style=flat-square
-[contributors-url]: https://github.com/shaojintian/Best_README_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/shaojintian/Best_README_template.svg?style=flat-square
-[forks-url]: https://github.com/shaojintian/Best_README_template/network/members
-[stars-shield]: https://img.shields.io/github/stars/shaojintian/Best_README_template.svg?style=flat-square
-[stars-url]: https://github.com/shaojintian/Best_README_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg
-[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
-[license-url]: https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/shaojintian
