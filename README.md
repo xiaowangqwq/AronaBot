@@ -42,7 +42,7 @@
 ### 部署
 
 ```
-暂无
+[colab](https://colab.research.google.com/drive/1kdI926PxRHtj9mRM9heNM0fKWAkyfHpH?usp=sharing)
 ```
 ### 使用到的框架
 
