@@ -7,36 +7,14 @@ const DIRECTIONS_TO_YAW = {
   '东': -Math.PI / 2,
 };
 let attackInterval;
-let bot1 = {
-  host: 'www.lizhiyu.vip', // 替换为你的服务器地址
-  port: 25565, // 替换为你的服务器端口
-  username: 'bot1', // 替换为你的机器人用户名
-  version: '1.20.4',
-  physicsEnabled: false,
-};
-let bot2 = {
-  host: 'www.lizhiyu.vip', // 替换为你的服务器地址
-  port: 25565, // 替换为你的服务器端口
-  username: 'bot2', // 替换为你的机器人用户名
-  version: '1.20.4',
-  physicsEnabled: false,
-};
-let bot3 = {
-  host: 'www.lizhiyu.vip', // 替换为你的服务器地址
-  port: 25565, // 替换为你的服务器端口
-  username: 'bot3', // 替换为你的机器人用户名
-  version: '1.20.4',
-  physicsEnabled: false,
-};
 function Bot(options){
   let bot = mineflayer.createBot(options);
   bot.on('end', () => {
-    console.log('Bot与服务器的连接已结束，准备重连...');
-    loginIn = false; // 5秒后尝试重连
+    console.log('Bot与服务器的连接已结束，准备重连...(没写)');
+    loginIn = false; 
   });
   bot.on('error', (err) => {
     console.error('Bot遇到错误:', err);
-    // 10秒后尝试重连
   });
   bot.on('chat', (username, message) => {
     console.log(`[${new Date().toISOString()}]${username}${message}`);
@@ -133,6 +111,14 @@ function Bot(options){
   
   })
 }
-Bot(bot1);
-Bot(bot2);
-Bot(bot3);
+for (i=1;i<process.argv.slice(2);i++) {
+  let botName="bot"+i
+  let bot = {
+    host: 'www.lizhiyu.vip', // 替换为你的服务器地址
+    port: 25565, // 替换为你的服务器端口
+    username: botName, // 替换为你的机器人用户名
+    version: '1.20.4',
+    physicsEnabled: false,
+  };
+  Bot(bot)
+}
